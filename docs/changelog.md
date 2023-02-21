@@ -34,6 +34,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * closes #7 - Archival Releases
   * closes #27 - 2.6.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -57,8 +58,9 @@ BABY IM BACK!!!  So, I crunched all the numbers to completely redesign each engi
 So everyone... enjoy!!!
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #26 - 2.5.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -71,8 +73,9 @@ So everyone... enjoy!!!
 * No release notes
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #25 - 2.4.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -97,8 +100,9 @@ So everyone... enjoy!!!
 * Next Update Spoiler:  New electrical parts to soak ION from space, New Modules for better craft control.
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #24 - 2.3.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -116,8 +120,9 @@ So everyone... enjoy!!!
 * Note, it may say error on some, but it seems to work regardless
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #23 - 2.2.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -134,8 +139,9 @@ So everyone... enjoy!!!
 HAVE FUN YALL!
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #22 - 2.1.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -154,8 +160,9 @@ HAVE FUN YALL!
 * (Sorry moderators for accidentally uploading empty file last time, please approve this)
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #21 - 2.0.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -170,8 +177,9 @@ Sorry for not uploading new content in such a long time.  To make it up I've add
 Soon to come will be the Condensed engine with an off the charts ISP and Power!
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #20 - 1.9.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -184,8 +192,9 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Patches the contract system
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #19 - 1.8.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -204,8 +213,9 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
   * If you are running short on funds, just lower the amount of fuel in the satellite! (Ion is VERY expensive)
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #18 - 1.7.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -221,8 +231,9 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * If any good ideas are given in the comments  below they may be implemented.  (Note all parts are made from stock models)
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #17 - 1.6.0.0
+  * updates #55 - [BUG] Archival Releases
 
 ---
 
@@ -242,7 +253,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Increased density for Ion fuel to compensate Mk 2 tank.
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #16 - 1.4.0.0
 
 ---
@@ -256,7 +267,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Fixes 1.2 parts for career mode
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #15 - 1.3.0.0
 
 ---
@@ -272,7 +283,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Also new part def's for... Lore?
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #14 - 1.2.0.0
 
 ---
@@ -287,7 +298,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Lower ion density for new parts
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #13 - 1.1.0.0
 
 ---
@@ -301,7 +312,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * No release notes
 
 * Issues
-  * closes #7 - Archival Releases
+  * updates #7 - Archival Releases
   * closes #12 - 1.0.0.0
 
 ---
