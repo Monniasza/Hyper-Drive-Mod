@@ -22,11 +22,25 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 Fast. Just Go Fast. This addon is designed to help Sci-fi enthusiasts to create crafts of their dreams. There is no limit with both an integrated Hyperdrive engine and a inline Hyperdrive inline engine.
 
+The mod adds overpowered propulsion systems, ION blocks, high performance reaction wheels and additional miners.
+
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Exodus_Solis`][exodussolis] and then by [`Monniasza`][monniasza]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleHyperdrive/master/img/HeroLogo_1920x1920.png" alt="SimpleHyperdrive Hero" width="50%" height="50%">
+
+### Adds
+
+* Hyper engine, weakest and least efficient engine
+* Charge Hyper Engine, which can be empowered by choosing "Interspace" mode
+* Interspace Hyper Engine , which uses Ion and Electric Charge for higher efficiency
+* Condensed Hyper Engine , which uses Condensed Ion and can be optimized for Power or Efficiency.
+* Hyperdrive Inline Stabilizer, which creates enough torque to stabilize hyperdrives.
+* ION block, which allows for VTOL and provides high RCS attitude
+* 2.0 Hyper Crystal Miner, which allows to harvest Hyper Crystals
+* Fuel tanks for engines, RCS and reaction wheels.
+* Required fuels
 
 ### See more
 
