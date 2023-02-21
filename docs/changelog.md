@@ -267,7 +267,7 @@ Soon to come will be the Condensed engine with an off the charts ISP and Power!
 * Kerbal Space Program 1.4.3
 * by [ExodusSolis](https://github.com/ExodusSolis)
 
-* Two new parts for control and infield production of Ion fuel. 
+* Two new parts for control and infield production of Ion fuel.
 * To expensive?  Make an ION plant and you will be richer than Trump!
 * Also new part def's for... Lore?
 
