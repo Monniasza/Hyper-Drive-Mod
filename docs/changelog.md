@@ -64,7 +64,7 @@ So everyone... enjoy!!!
 
 ---
 
-## Version 2.4.0.0-release `<Archival>`
+## Version 2.4.0.0-release `<10K Special>`
 
 * 02 May 2019
 * Kerbal Space Program 1.7.0
