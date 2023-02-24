@@ -22,7 +22,8 @@
 * Issues
   * closes #7 - Archival Releases
   * closes #27 - 2.6.0.0
-  * updates #55 - [BUG] Archival Releases
+  * closes #55 - [BUG] Archival Releases
+  * closes #66 - Errors in Tweakscale patch?
 
 ---
 
