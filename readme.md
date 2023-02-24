@@ -128,7 +128,7 @@ config, parts, resources
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (2) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -167,8 +167,10 @@ Comment, click, like, share, up-vote, subscribe
 [discu]: https://github.com/zer0Kerbal/SimpleHyperdrive/discussions "Discussions"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/ "SimpleHyperdrive Forum Thread"
 [issue]: https://github.com/zer0Kerbal/SimpleHyperdrive/issues "Issues"
+[markt]: https://zer0kerbal.github.io/SimpleHyperdrive/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/SimpleHyperdrive/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/SimpleHyperdrive "GitHub Pages"
+[parts]: https://zer0kerbal.github.io/SimpleHyperdrive/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
 [MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleHyperdrive/master/json/mod.json
