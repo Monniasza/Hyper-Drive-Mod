@@ -38,7 +38,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ---
 
-## Version 2.5.0.0-release `<Archival>`
+## Version 2.5.0.0-release `<Special THE RETURN OF EXODUS>`
 
 * 17 Apr 2020
 * Kerbal Space Program 1.9.1
