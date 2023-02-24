@@ -1,3 +1,4 @@
+# DEPRECATED! USE https://github.com/zer0Kerbal/SimpleHyperdrive  INSTEAD
 # Hyper-Drive-Mod
 Original author: ExodusSolis
 https://www.curseforge.com/members/exodussolis
