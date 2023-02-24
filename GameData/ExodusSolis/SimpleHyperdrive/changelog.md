@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3249)                                 |
 | ckan       | SimpleHyperdrive                                                  |
 
-## Version 2.6.0.0-release `<Archival>`
+## Version 2.6.0.0-release `<HotFix>`
 
 * 10 Feb 2023
 * Kerbal Space Program 1.12.5
@@ -22,7 +22,8 @@
 * Issues
   * closes #7 - Archival Releases
   * closes #27 - 2.6.0.0
-  * updates #55 - [BUG] Archival Releases
+  * closes #55 - [BUG] Archival Releases
+  * closes #66 - Errors in Tweakscale patch?
 
 ---
 
