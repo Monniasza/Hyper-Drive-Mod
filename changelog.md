@@ -54,21 +54,6 @@ So everyone... enjoy!!!
 
 ## Version 2.4.0.0-release `<Archival>`
 
-* 28 Mar 2020
-* Kerbal Space Program 1.8.1
-* by [ExodusSolis](https://github.com/ExodusSolis)
-
-* No release notes
-
-* Issues
-  * updates #7 - Archival Releases
-  * closes #25 - 2.4.0.0
-  * updates #55 - [BUG] Archival Releases
-
----
-
-## Version 2.3.0.0-release `<Archival>`
-
 * 02 May 2019
 * Kerbal Space Program 1.7.0
 * by [ExodusSolis](https://github.com/ExodusSolis)
@@ -89,12 +74,12 @@ So everyone... enjoy!!!
 
 * Issues
   * updates #7 - Archival Releases
-  * closes #24 - 2.3.0.0
+  * closes #25 - 2.4.0.0
   * updates #55 - [BUG] Archival Releases
 
 ---
 
-## Version 2.2.0.0-release `<Adelaer>` edition
+## Version 2.3.0.0-release `<Adelaer>` edition
 
 * 08 Mar 2019
 * Kerbal Space Program 1.6.1
@@ -105,7 +90,22 @@ So everyone... enjoy!!!
 
 * This edition is dedicated to `Adelaer`, A hyperdrive mod user who decided to comment his thoughts and personal modifications to the mod
 
-* Note, it may say error on some, but it seems to work regardless
+* Issues
+  * updates #7 - Archival Releases
+  * closes #24 - 2.3.0.0
+  * updates #55 - [BUG] Archival Releases
+
+---
+
+## Version 2.2.0.0-release `<Archival>`
+
+* 27 Dec 2018
+* Kerbal Space Program 1.6.0
+* by [ExodusSolis](https://github.com/ExodusSolis)
+
+### Note, it may say error on some, but it seems to work regardless
+
+* Finally fixes tweak scale.
 
 * Issues
   * updates #7 - Archival Releases
