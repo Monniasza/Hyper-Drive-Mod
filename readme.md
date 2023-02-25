@@ -24,6 +24,8 @@ Fast. Just Go Fast. This addon is designed to help Sci-fi enthusiasts to create 
 
 The mod adds overpowered propulsion systems, ION blocks, high performance reaction wheels and additional miners.
 
+**Winnebago Chieftain 33RU not included**
+
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Exodus_Solis`][exodussolis] and then by [`Monniasza`][monniasza]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
