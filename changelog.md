@@ -2,13 +2,198 @@
   
 | modName    | Simple Hyperdrive! (HYPE)                                         |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Exodus_Solis, Monniasza and zer0Kerbal                            |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/) |
 | github     | (https://github.com/zer0Kerbal/SimpleHyperdrive)                  |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)     |
 | spacedock  | (https://spacedock.info/mod/3249)                                 |
 | ckan       | SimpleHyperdrive                                                  |
+
+## Version 2.6.99.0-release - `<Thank you Exodus_Solis and Monniasza>` edition
+
+* Released
+  * 23 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+## Summary
+
+* Adopted by [zer0Kerbal](https://github.com/zer0Kerbal)
+* Updated, linted, folderized and localized
+* NEW
+  * Two new parts
+  * Agency
+  * Flag
+* Full English localization, including part modules
+* Thank you!
+  * [Monniasza](https://github.com/Monniasza)
+  * [ExodusSolis](https://github.com/ExodusSolis)
+
+### Archival Releases
+
+* 1.0.0.0-release `<Archival>`
+* 1.1.0.0-release `<Archival>`
+* 1.2.0.0-release `<Archival>`
+* 1.3.0.0-release `<Archival>`
+* 1.4.0.0-release `<Archival>`
+* 1.6.0.0-release `<Archival>`
+* 1.7.0.0-release `<Archival>`
+* 1.8.0.0-release `<Archival>`
+* 1.9.0.0-release `<Archival>`
+* 2.0.0.0-release `<Archival>`
+* 2.1.0.0-release `<Archival>`
+* 2.2.0.0-release `<Archival>`
+* 2.3.0.0-release `<Archival>`
+* 2.4.0.0-release `<Archival>`
+* 2.5.0.0-release `<Archival>`
+* 2.6.0.0-release `<Archival>`
+* closes #7 - Archival Releases
+
+### Localization 2.6.99.0
+
+* Localization directory and contents
+  * Create
+    * Localization/
+      * <en-us.cfg>
+      * [readme.md] v2.1.2.0
+      * [quickstart.md] v1.0.1.1
+* closes #29 - English <en-us.cfg>
+* closes #46 - Part Localization
+* closes #8 - Create Localization directory and contents
+* updates #28 - Localization - Master
+
+### Documentation 2.6.99.0
+
+* Create
+  * readme
+  * deploy to:
+    * CurseForge Description page 🤬
+    * Forum Original Post 🐰
+    * SpaceDock Information page 🌮
+  * release notes
+  * [changelog.md]
+  * update /docs/
+
+### GitHub Pages 2.6.99.0
+
+* Create
+  * docs/
+    * [`_config.yml`]
+    * [404.md] v1.0.3.2
+    * [Assembly.md] v1.0.0.0
+    * [Attribution.md] v1.0.7.1
+    * [Disclaimer.md] v1.0.7.1
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [ManualInstallation.md] v1.1.8.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [PartsCatalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+* closes #5 - Create GitHub Pages
+
+### Legal Mumbo Jumbo 2.6.99.0
+
+* Create
+  * license check
+  * offline documentation
+  * _Legal
+    * screenshots and pdfs
+    * adoptionLetters
+    * communications concerning
+  * _Links/
+    * link(s) saved
+  * docs/LegalMumboJumbo
+    * [License.md]
+    * FORUM-##.png's
+      * public documentation
+  * GitHub: :octocat:
+    * LICENSE
+    * [license].txt
+  * CurseForge
+  * SpaceDock
+  * CKAN
+
+### Part Asset Updates 2.6.99.0
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* closes #9 - Part Asset Updates
+
+### Parts 2.6.99.0
+
+* Update
+* Lint
+* fix issues (below)
+  * closes #55 - [BUG] Archival Releases
+  * closes #66 - Errors in Tweakscale patch?
+
+### Create
+
+* Agency
+* Hero image/cover image
+* closes #6 - Create HeroLogo.png
+* closes #48 - Create Agency
+
+### Config 2.6.99.0
+
+* Add localized tags to parts
+* Create
+  * Dreamer.cfg v1.0.0.0
+    * adds localized tags to parts
+* closes #10 - Create <SimpleHyperdrive.cfg>
+* closes #47 - Part Tags
+
+### License 2.6.99.0
+
+* Update
+  * Updated License: GPL-2.0
+    * was: WTPFL
+* closes #11 - Update License
+
+### Social Media Presence 2.6.99.0
+
+* Create Social Media Presence
+  * Kerbal Space Program forum
+    * Create new thread/post in "Add-on Development"
+    * title: [1.12.5] Simple Hyperdrive (HYPE) - 2.6.99.0-adoption - `<Thank you Exodus_Solis and Monniasza>` edition [24 Feb 2023]
+    * create release post in new thread/post
+      * content (readme.htm)
+    * original mod's thread/post
+      * post link to new thread/post
+  * CurseForge
+  * Twitter
+  * SpaceDock
+  * Reddit post
+  * Patreon post
+
+### Marketing 2.6.99.0
+
+* Create
+  * HeroLogo.png
+* closes #90 - Create HeroLogo.png
+
+### Status 2.6.99.0
+
+* Issues
+  * closes #1 - Simple Hyyperdrive!! (HYPE) 2.6.99.0-adoption `<Thank you Exodus_Solis and Monniasza>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+
+---
 
 ## Version 2.6.0.0-release `<HotFix>`
 
