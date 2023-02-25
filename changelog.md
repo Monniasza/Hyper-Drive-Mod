@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3249)                                 |
 | ckan       | SimpleHyperdrive                                                  |
 
-## Version 2.6.99.0-release - `<Thank you Exodus_Solis and Monniasza>` edition
+## Version 2.6.99.0-adoption - `<Thank you Exodus_Solis and Monniasza>` edition
 
 * Released
   * 23 Feb 2023
