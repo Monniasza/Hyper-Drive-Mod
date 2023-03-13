@@ -24,8 +24,6 @@ Fast. Just Go Fast. This addon is designed to help Sci-fi enthusiasts to create 
 
 The mod adds overpowered propulsion systems, ION blocks, high performance reaction wheels and additional miners.
 
-**Winnebago Chieftain 33RU not included**
-
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Exodus_Solis`][exodussolis] and then by [`Monniasza`][monniasza]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
@@ -130,7 +128,7 @@ config, parts, resources
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Author (2) - [`zer0Kerbal`][zer0Kerbal]
+#### Author (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
@@ -169,10 +167,8 @@ Comment, click, like, share, up-vote, subscribe
 [discu]: https://github.com/zer0Kerbal/SimpleHyperdrive/discussions "Discussions"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/212069-*/ "SimpleHyperdrive Forum Thread"
 [issue]: https://github.com/zer0Kerbal/SimpleHyperdrive/issues "Issues"
-[markt]: https://zer0kerbal.github.io/SimpleHyperdrive/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/SimpleHyperdrive/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/SimpleHyperdrive "GitHub Pages"
-[parts]: https://zer0kerbal.github.io/SimpleHyperdrive/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
 [MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleHyperdrive/master/json/mod.json
@@ -196,7 +192,7 @@ Comment, click, like, share, up-vote, subscribe
 
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-2.0"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleHyperdrive/master/json/license.json
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MOD-NAME/master/json/license.json
  "GPL-2.0"
 
 <!--- release links -->
