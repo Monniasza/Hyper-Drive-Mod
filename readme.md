@@ -169,6 +169,7 @@ Comment, click, like, share, up-vote, subscribe
 [issue]: https://github.com/zer0Kerbal/SimpleHyperdrive/issues "Issues"
 [notic]: https://zer0kerbal.github.io/SimpleHyperdrive/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/SimpleHyperdrive "GitHub Pages"
+[parts]: https://zer0kerbal.github.io/SimpleHyperdrive/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
 [MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleHyperdrive/master/json/mod.json
